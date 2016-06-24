@@ -5,7 +5,7 @@ var account = {
 	firstName: 'Stephen',
 	lastName: 'Burke',
 	phoneNumber: '6175554321',
-	aid: FDC2B3B9-1FB5-4D97-8DF0-E9C90DEC0CAC,
+	aid: 'FDC2B3B9-1FB5-4D97-8DF0-E9C90DEC0CAC',
 	active: true
 }
 
